@@ -1,1 +1,1 @@
-./jmeter -n -t /home/joao/Source/Test/jmeter-petclinic-tests/jmeter/queryPet.jmx -l /home/joao/Source/Test/jmeter-petclinic-tests/jmeter/restBank.jtl -e -o /home/joao/Source/Test/jmeter-petclinic-tests/jmeter/report
+./jmeter -n -t /home/joao/Sources/Test/jmeter-petclinic-tests/jmeter/queryPet.jmx -l /home/joao/Sources/Test/jmeter-petclinic-tests/jmeter/restBank.jtl -e -o /home/joao/Sources/Test/jmeter-petclinic-tests/jmeter/report
